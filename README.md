@@ -1,0 +1,2 @@
+# LearnPythonTheHardWay
+http://learnpythonthehardway.org/
