@@ -1,0 +1,5 @@
+Exercise 23 - Read some source code
+
+https://github.com/python/pythondotorg
+
+Enjoyed reading the source code for python. Even more curious now about learning more about Django.

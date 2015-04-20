@@ -1,0 +1,10 @@
+Exercise 22 - What do you know so far?
+
+%      - String formatting operation.
+%r     - Format uses repr function.
+%s     - Format str function.
+%d     - Format digit
+
+sys    - System specific parameters and functions.
+import - Keyword to include modules in a script.
+argv   - The list of command line arguments passed to a Python script.
