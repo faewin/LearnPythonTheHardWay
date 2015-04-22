@@ -1,8 +1,13 @@
+# Exercise30 - Else and If
+
+#creates variable people with the value of 30
 people = 30
+#creates variable cars with the value of 40
 cars = 40
+#creates variable trucks with the value of 15
 trucks = 15
 
-
+# Evalutes code and executes given code block depending on which condition is truthy.
 if cars > people:
     print "We should take the cars."
 elif cars < people:
@@ -10,6 +15,7 @@ elif cars < people:
 else:
     print "We can't decide."
 
+# Evalutes code and executes given code block depending on which condition is truthy.
 if trucks > cars:
     print "That's too many trucks."
 elif trucks < cars:
@@ -17,6 +23,7 @@ elif trucks < cars:
 else:
     print "We still can't decide."
 
+# Evalutes code and executes given code block depending on which condition is truthy.
 if people > trucks:
     print "Alright, let's just take the trucks."
 else:
