@@ -16,3 +16,16 @@ for fruit in fruits:
 # notice we have to use %r wince we don't know what's in it
 for i in change:
     print "I got %r" % i
+
+# we can also build lists, first start with an empty one
+elements = []
+
+# then use range function to 0 to 5 counts
+for i in range(0,6):
+    print "Adding %d to list." % i
+    # append function adds element to list
+    elements.append(i)
+
+# now we can print the list
+for i in elements:
+    print "Element was %d" % i
