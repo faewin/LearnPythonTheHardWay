@@ -4,7 +4,8 @@ def method(max_num, inc):
     i = 0
     numbers = []
 
-    while i < max_num:
+    for i in range(0,max_num):
+        pass
         print "At the top i is %d" % i
         numbers.append(i)
 
