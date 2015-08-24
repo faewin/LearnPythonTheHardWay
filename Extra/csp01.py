@@ -21,6 +21,9 @@
 # > which consists of 0 and 1. Example => base10 - 99 || base2 - 01100011
 
 # ♦ Explain what an operating systems is
+# > Software that has the job of managing the hardware resources of a given
+# > computer and providing a particular user interface
+
 # ♦ Explain the fundamental concepts of computer software
 # ♦ Explain the fundamental features of IDLE in Python
 # ♦ Modify and execute a simple Python program
