@@ -25,5 +25,15 @@
 # > computer and providing a particular user interface
 
 # ♦ Explain the fundamental concepts of computer software
+# > The goal is to create a program that will solve a given problem
+# > Before a program is written, a design for the program must be developed. And before a design can be developed,
+# > the problem to be solved must be well understood. Once written, the program must be thoroughly tested.
+
+# > The main fundemantal concepts are broken into 4 steps:
+# > Understand the problem
+# > Describe and design the problem
+# > Implement your design in code
+# > Test your code.
+
 # ♦ Explain the fundamental features of IDLE in Python
-# ♦ Modify and execute a simple Python program
+# > Bundled set of software tools for program development.
